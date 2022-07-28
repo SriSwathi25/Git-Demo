@@ -1,3 +1,7 @@
 Hello, World.
 I m making these updates in fix-updates branch.
 I am adding one more line in master.
+I m making these updates in fix-updates branch.git
+Making updates in update-file branch.
+Adding line 1
+Adding line 2
